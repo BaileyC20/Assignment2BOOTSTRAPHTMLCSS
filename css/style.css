@@ -1,0 +1,24 @@
+body {
+  font-family: 'PT Serif', serif;
+  background-color: #B1E6DC;
+}
+h1 {
+  color: #DB616A;
+  font-family: 'Prompt', sans-serif;
+}
+nav {
+font-family: 'Prompt', sans-serif;
+margin-bottom: 4em;
+}
+#canDo {
+font-size: 6em;
+font-family: 'Prompt', sans-serif;
+margin-bottom: 1em;
+}
+.size {
+  border-bottom: dashed 3px red;
+}
+.btn {
+font-family: 'Prompt', sans-serif;
+width: 10em;
+}

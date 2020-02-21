@@ -1,0 +1,35 @@
+body {
+  background-color: #F0F3BD;
+  margin: 0;
+  font-family: Georgia, serif;
+}
+#top {
+  background-color: #00A896;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+h1 {
+font-size: 4.4rem;
+text-align: center;
+color: #04415A;
+}
+p {
+font-family: Helvetica, Verdana, Arial,sans-serif;
+font-size: 1.8rem;
+margin-left: 5rem;
+margin-right: 15rem;
+}
+.redtext {
+  color: #00A896;
+}
+blockquote {
+margin-left: 5rem;
+border-left: 1rem solid #028090;
+}
+/* more specific selector needed */
+blockquote p {
+margin-left: 1rem;
+}
+cite {
+margin-left: 1rem;
+}
